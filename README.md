@@ -13,7 +13,6 @@ A simple and functional **Inventory Management System** built using **Flask**, *
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [License](#-license)
-- [Developer](#-developer)
 
 ---
 
