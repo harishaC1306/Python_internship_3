@@ -8,7 +8,6 @@ A simple and functional **Inventory Management System** built using **Flask**, *
 
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Screenshots](#-screenshots)
 - [Project Structure](#-project-structure)
 - [Installation](#-installation)
 - [Usage](#-usage)
