@@ -43,7 +43,7 @@ A simple and functional **Inventory Management System** built using **Flask**, *
 
 > 💡 Add screenshots here after running the project.
 
-![Login Page](screenshots/login.png)
+![Login](login.png)
 ![Dashboard](screenshots/dashboard.png)
 ![Add Item](screenshots/add_item.png)
 
